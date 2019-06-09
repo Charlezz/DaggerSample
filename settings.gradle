@@ -1,1 +1,1 @@
-include ':app', ':starbucks'
+include ':app', ':starbucks', ':basic'
